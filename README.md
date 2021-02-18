@@ -1,3 +1,5 @@
+moved to <a href="https://github.com/pashmaklang/vscode-pashmak">here</a>
+
 # vscode Pashmak
 The Pashmak programming language syntax highlighter for **Visual Studio Code**
 
